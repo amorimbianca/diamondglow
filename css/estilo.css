@@ -32,3 +32,11 @@ header {
     /* Largura */
     width: 100%;
 }
+/* UL */
+.menu{
+    list-style: none;
+    /* Lista Horizontal */
+    display: flex;
+    /* Espaço */
+    gap: 1rem;
+}
