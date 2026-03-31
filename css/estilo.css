@@ -40,3 +40,26 @@ header {
     /* Espaço */
     gap: 1rem;
 }
+
+/* Tag NAV */
+.menu-desktop{
+    display: none;
+}
+/* Versão Mobile */
+
+
+/* Responsivo */
+/* telas maiores quw 768px */
+
+@media(min-width: 768px) {
+    header {
+        padding: 1rem 6rem;
+        justify-content: ;
+        gap: ;
+    }
+
+    /* NAV */
+    .menu-desktop {
+        display: flex;
+    }
+}
