@@ -45,6 +45,12 @@ header {
 .menu-desktop{
     display: none;
 }
+
+/*  LOGO */
+    .logo{
+        width: 5rem;
+    }
+
 /* Versão Mobile */
 
 
